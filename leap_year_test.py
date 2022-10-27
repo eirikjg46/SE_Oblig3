@@ -1,4 +1,4 @@
-from LeapYearFolder.leap_year import isLeapYear
+from leap_year import isLeapYear
 
 # Divisible by 4 but not divisible by 100.
 def test_isLeapYear_div4ButNot100() -> None:
