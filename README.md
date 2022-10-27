@@ -1,0 +1,1 @@
+leap_year_test.py inneholder 4 tester for å teste om leap_year.py koden funker som den skal. Lagt til python-app.yml fil under github/workflow her på github, som først kommer til å sørge for at jeg har python og pytest installers, og så kjøre og teste alt som er lagt inn i filen. Vil alt funker som det skal vil github gi oss et grønt checkmark. 
